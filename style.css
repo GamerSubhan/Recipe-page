@@ -74,7 +74,7 @@ body
     position: absolute;
     margin-top: 70%;
     width: 350px;
-    height: 100px;
+    height: 105px;
     border-radius: 6px;
 }
 
@@ -147,7 +147,7 @@ h3
 }
 
 hr{
-    border-color: hsl(30, 18%, 87%); width: 90%; position: absolute; margin-top: 138%;
+    border-color: hsl(30, 18%, 87%); width: 90%; position: absolute;
 }
 
 #secondLine
